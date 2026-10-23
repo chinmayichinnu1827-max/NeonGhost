@@ -15,3 +15,5 @@
 .*slnx
 *.slnx
 *.user
+Library/
+Logs/
